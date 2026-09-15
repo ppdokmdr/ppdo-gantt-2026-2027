@@ -183,6 +183,9 @@ const data2027 = [
       { name: "Press Releases / Planning Insights", activities: [
         { name: "Press releases published", months: [3,6,9,12] },
       ]},
+      { name: "Deployment of KMDR Staff for the Operation of the Provincial I-Hub and SARAI Hub", activities: [
+        { name: "", months: [1,2,3,4,5,6,7,8,9,10,11,12] },
+      ]},
     ]
   },
 ];
@@ -316,6 +319,9 @@ const data2026 = [
       { name: "Cagayan Provincial Statistics Committee", activities: [
         { name: "3rd Quarter Business Meeting", months: [2] },
         { name: "4th Quarter Business Meeting", months: [5] },
+      ]},
+      { name: "Deployment of KMDR Staff for the Operation of the Provincial I-Hub and SARAI Hub", activities: [
+        { name: "", months: [10,11,12] },
       ]},
     ]
   },
