@@ -127,14 +127,35 @@ const data2027 = [
         { name: "Facilitation of project proposals", months: [1,2,3,4,5,6,7,8,9,10,11,12] },
         { name: "Walk-in client assistance", months: [1,2,3,4,5,6,7,8,9,10,11,12] },
         { name: "Special meetings (PPDC, PFC, etc.)", months: [1,2,3,4,5,6,7,8,9,10,11,12] },
-      ]},
+        ],
+      },
+      {
+        name: "Formulation of the 2028 Peace and Order and Public Safety (POPS) Plan/Peace and Order Program", activities: [
+          { name: 'Call for submission of proposals and project briefs from Peace and Order Program Implementors', months: [1,2,3,4,5,6,7,8,9,10,11,12] },
+          { name: 'Drafting and packaging of the 2028 Peace and Order and Public Safety Plan', months: [1,2,3,7,8,9] },
+          { name: 'Presentation of the POPS Plan to the Provincial Peace and Order Council for endorsement to PDC and its integration in the 2028 AIP', months: [1,2,3,7,8,9] },
+          { name: 'Presentation of 2028 Peace and Order Plan to the PDC for their endorsement to the Sangguniang Panlalawigan', months: [1,2,3,7,8,9] },
+          { name: 'Presentation of the 2028 Peace and Order Plan to SP for approval', months: [1,2,3,7,8,9] },
+        ]
+      },
+      {
+        name: 'Submission of the approved 2028 Peace and Order and Public Safety (POPS) Plan via POPS-PCMS', activities: [
+          { name: 'Inputting of the 2028 POPS Plan into the POPS-PCMS', months: [4,5,6] },
+          { name: 'Uploading of supporting documents', months: [4,5,6] },
+        ]
+      },
+      {
+        name: 'Provision of Secretariat to Provincial Peace and Order Council-TWG', activities: [
+          { name: '', months: [1,2,3,4,5,6] },
+        ]
+      }
     ]
   },
   {
     id: "kmdr", name: "Knowledge Management & Dev Research Division", abbr: "KMDR", color: "#ec4899",
     programs: [
       { name: "CPSC Quarterly Business Meetings", activities: [
-        { name: "1st Quarter meeting", months: [1,3] },
+        { name: "1st Quarter meeting", months: [1,2,3] },
         { name: "2nd Quarter meeting", months: [4,5,6] },
         { name: "3rd Quarter meeting", months: [7,8,9] },
         { name: "4th Quarter meeting", months: [10,11,12] },
